@@ -1,4 +1,18 @@
-## Bubble sort Algorithm 
-
+# Bubble sort Algorithm 
+    my custom bubble sort algorithm
 ## Run
-<code>$ node index.js</code>
+
+```bash
+$ node index.js
+```
+## How to use
+in your js file:
+
+```javascript
+    require('./my-sort.js);
+
+    const unsortedArray = [1, 9 ,2 ,4, 5, 6, ,3, 8, 7, 10];
+
+    console.log(unsortedArray.mySort()) //output: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+```
