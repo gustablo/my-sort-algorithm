@@ -6,7 +6,7 @@
 $ node index.js
 ```
 ## How to use
-in index.js file:
+in index.js file change value of variable "unsortedArray" to an array of numbers that you want
 
 ```javascript
     require('./my-sort.js);
