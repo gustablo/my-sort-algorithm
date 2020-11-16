@@ -6,7 +6,7 @@
 $ node index.js
 ```
 ## How to use
-in your js file:
+in index.js file:
 
 ```javascript
     require('./my-sort.js);
